@@ -4,6 +4,9 @@ body {
 
 p {
 text-align: justify;
+padding: 5px 10px 20px; /*belső margó*/
+border: 4px solid black; /*szegély - 4px(vastagság), solid(stílus), black(szín)*/
+margin: 20px; /*külső margó*/
 }
 
 h1,h2,p {
